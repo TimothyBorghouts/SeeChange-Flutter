@@ -1,3 +1,5 @@
 # SeeChange
 
-Flutter project to stream camera input for people to view in other application.
+SeeChange is a Flutter application designed to stream camera inputs, allowing users to view the streamed content in other applications. 
+
+
